@@ -1,39 +1,25 @@
-# Devines Protocol Documentation
+# Summary
 
-* [Introduction](README.md)
+- [Introduction](docs/introduction/what-is-devines-protocol.md)
 
----
+- Philosophy
+  - [Purpose](docs/philosophy/purpose.md)
 
-# Foundations
+- Cosmology
+  - [Archetypes](docs/cosmology/archetypes.md)
 
-* [Purpose](docs/philosophy/purpose.md)
-* [Cosmological Architecture](docs/architecture/cosmology.md)
-* [Sacred Geometry](docs/architecture/sacred-geometry.md)
+- Architecture
+  - [Runtime](docs/architecture/runtime.md)
 
----
+- Guardians
+  - [Guardian System](docs/guardians/guardian-system.md)
 
-# Devine Source
+- Entities
+  - [Entity Structure](docs/entities/entity-structure.md)
+  - [Entity Vessels](docs/entities/entity-vessels.md)
 
-* [The Devine Source](docs/source/devine-source.md)
-
----
-
-# Primordial Beings
-
-* [Primordial Structure](docs/primordials/primordial-structure.md)
-
----
-
-# Pantheons
-
-* [Pantheon Architecture](docs/pantheons/pantheon-architecture.md)
-
----
-
-# Devine Entities
-
-* [Entity Structure](docs/entities/entity-structure.md)
-* [Entity Vessels (SPL Tokens)](docs/entities/entity-vessels.md)
+- Governance
+  - [DAO Governance](docs/governance/dao-governance.md)* [Entity Vessels (SPL Tokens)](docs/entities/entity-vessels.md)
 
 ---
 
